@@ -1,4 +1,4 @@
-**Setting Up Resources in Azure**
+**Setting Up Active Directory Resources in Azure**
 
 1. **Create the Domain Controller VM (Windows Server 2022) named “DC-1”**
     - Note the Resource Group and Virtual Network (Vnet) created.
